@@ -1,4 +1,11 @@
-## Tic Tac Toe
+# Rock Paper Scissors Game
 
-This project is a basic version of Tic Tac Toe written in JavaScript, played using the console and prompt boxes.
-It was a project as part of [The Odin Project](https://www.theodinproject.com), to demonstrate my knowledge of basics such as functions, strings, and variables.
+[**Made as a project for The Odin Project curriculum.**](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors)
+
+A basic version of Rock Paper Scissors, played using the dev tools console.
+
+## [Live Demo](https://atomicchocolate.github.io/rock-paper-scissors/)
+
+### Made with
+- HTML
+- JavaScript
